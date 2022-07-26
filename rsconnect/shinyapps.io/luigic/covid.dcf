@@ -1,0 +1,13 @@
+name: covid
+title: covid
+username:
+account: luigic
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1935021
+bundleId: 6133526
+url: https://luigic.shinyapps.io/covid/
+when: 1658822565.45595
+lastSyncTime: 1658822565.45596
+asMultiple: FALSE
+asStatic: FALSE

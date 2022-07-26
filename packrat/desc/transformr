@@ -1,0 +1,43 @@
+Package: transformr
+Type: Package
+Title: Polygon and Path Transformations
+Version: 0.1.1
+Date: 2018-12-04
+Authors@R: 
+    person(given = "Thomas Lin",
+           family = "Pedersen",
+           role = c("cre", "aut"),
+           email = "thomasp85@gmail.com")
+Maintainer: Thomas Lin Pedersen <thomasp85@gmail.com>
+Description: In order to smoothly animate the transformation of polygons and 
+    paths, many aspects needs to be taken into account, such as differing number 
+    of control points, changing center of rotation, etc. The 'transformr' 
+    package provides an extensive framework for manipulating the shapes of 
+    polygons and paths and can be seen as the spatial brother to the 'tweenr' 
+    package.
+License: MIT + file LICENSE
+Encoding: UTF-8
+SystemRequirements: C++11
+LazyData: true
+Imports: Rcpp (>= 0.12.15), tweenr, rlang, sf, lpSolve
+Suggests: magrittr
+LinkingTo: Rcpp
+RoxygenNote: 6.1.1
+Roxygen: list(markdown = TRUE)
+URL: https://github.com/thomasp85/transformr
+BugReports: https://github.com/thomasp85/transformr/issues
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: transformr
+RemoteUsername: thomasp85
+RemoteRef: master
+RemoteSha: b8971781bd1d722a8bf41f2d39451c5c391d50ff
+GithubRepo: transformr
+GithubUsername: thomasp85
+GithubRef: master
+GithubSHA1: b8971781bd1d722a8bf41f2d39451c5c391d50ff
+NeedsCompilation: yes
+Packaged: 2020-03-10 14:26:05 UTC; luigi
+Author: Thomas Lin Pedersen [cre, aut]
+Built: R 3.6.1; x86_64-w64-mingw32; 2020-03-10 14:26:07 UTC; windows
+Archs: i386, x64

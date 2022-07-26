@@ -1,0 +1,29 @@
+body {
+  background-color:#676262;
+  
+}
+
+h2{
+  color:white;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    color: #2dd26f;
+    cursor: default;
+    background-color: #5c61607d;
+    border: 2.5px solid #3cd864;
+    border-bottom-color: transparent;
+    font-size:1.25em;
+    
+}
+
+.nav-tabs>li>a {
+    color:white;
+    margin-right: 2px;
+    line-height: 1.42857143;
+    border: 1px solid #f3eded4f;
+    border-radius: 8px 8px 0 0;
+    border-bottom-color: transparent;
+    background-color:#d3d3d352;
+    font-size:1.05em;
+}
