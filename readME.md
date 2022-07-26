@@ -1,3 +1,7 @@
+![Follow](https://img.shields.io/twitter/follow/luigi_cesarini?style=social)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luigi-cesarini-40826ab4/)
+[![Orcid](https://img.shields.io/badge/-Orcid-white?style=flat&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0001-7525-9613)
+[![Researchgate](https://img.shields.io/badge/-ResearchGate-green?style=flat&labelColor=green&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Luigi-Cesarini)
 # Monitoring of COVID-19 for Italy 
 The main of the app is to monitor the covid-19 situation at the local level (province) and the country level. 
 Moreover, projections based on statistical model are obtained and the weight on the health infrastrucures are evaluated.
